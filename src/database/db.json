@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "username": "Amish Singh",
+      "email": "amish@gmail.com",
+      "phone": "97925486574",
+      "id": 2
+    },
+    {
+      "username": "Krishna ",
+      "email": "krishna@gmail.com",
+      "phone": "8798653214",
+      "id": 3
+    }
+  ]
+}
